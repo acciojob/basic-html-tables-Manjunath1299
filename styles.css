@@ -5,6 +5,7 @@ table{
 	border-collapse:collapse;
 }
 th,td{
-	border-style: ridge;
-	text-align:center
+	border-style: groove;
+	text-align:center;
+	font-family:arial
 }
